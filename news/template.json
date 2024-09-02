@@ -26,6 +26,33 @@
             "short_description": "Zum Schutze Ihrer Gesundheit",
             "description": "Die Ständige Impfkommission (STIKO) gibt regelmäßig Empfehlungen zu notwendigen Impfungen, darunter Standardimpfungen wie gegen Masern, Mumps, Röteln, Tetanus, Diphtherie und Influenza. Besonders wichtig sind auch Impfungen für Risikogruppen wie Kleinkinder, ältere Menschen und Personen mit chronischen Krankheiten. Impfungen sind in vielen Fällen kostenlos und werden von den Krankenkassen übernommen.",
             "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen"
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/heart.jpg",
+            "alt": "Bundesregierung Kabinett bringt das 'Gesunde-Herz-Gesetz' auf den Weg",
+            "title": "Gesunde-Herz-Gesetz",
+            "short_description": "Bundesregierung Kabinett bringt das 'Gesunde-Herz-Gesetz' auf den Weg",
+            "description": "Bundesregierung Kabinett bringt das 'Gesunde-Herz-Gesetz' auf den Weg",
+            "mehr":"https://www.tagesschau.de/multimedia/video/schnell_informiert/video-1373634.html"
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/flower.jpg",
+            "alt": "Rückgang bei Impfungen gegen Gebärmutterhalskrebs",
+            "title": "Rückgang bei Impfungen gegen Gebärmutterhalskrebs",
+            "short_description": "Entgegen aller Empfehlungen werden immer weniger Kinder gegen das HPV-Virus geimpft. Das zeigt eine Krankenkassen-Erhebung. Dabei können die Viren bösartige Tumore auslösen - wie zum Beispiel am Gebärmutterhals.",
+            "description": "Das humane Papilloma-Virus (kurz HPV) kann bei Männern und Frauen bösartige Tumore auslösen - etwa im Mund-Rachen-Raum, an den Geschlechtsorganen oder auch Gebärmutterhalskrebs. Deshalb empfiehlt die Ständige Impfkommission schon seit Jahren, Mädchen und Jungen gegen HPV zu impfen.",
+            "mehr":"https://www.tagesschau.de/inland/gesellschaft/rueckgang-hpv-impfung-100.html"
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/thermometer.jpg",
+            "alt": "Ab wann Sport bei Hitze gefährlich wird",
+            "title": "Ab wann Sport bei Hitze gefährlich wird",
+            "short_description": "Joggen, Wandern, Tennisspielen - gerade im Urlaub haben viele Zeit dafür. Doch bei hohen Temperaturen kann das eine Herausforderung für den Körper sein. Darauf sollten Sportler achten. ",
+            "description": "Im Sommerurlaub haben viele endlich mehr Zeit für Sport. Aber nicht jeder sollte in der Mittagshitze joggen oder Fußballspielen, sagt Karsten Köhler, Professor für Bewegung, Ernährung und Gesundheit an der TU München.",
+            "mehr":"https://www.tagesschau.de/wissen/gesundheit/hitze-sport-100.html"
         }
     ]
 }
