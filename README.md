@@ -6,3 +6,4 @@
 <a href="https://www.freepik.com/free-photo/close-up-thermometer-showing-high-temperature_28258962.htm#fromView=search&page=1&position=1&uuid=8b4eaa32-bfe0-4dbd-9dd3-159b8acbbb90">Image by freepik</a>
 <a href="https://www.freepik.com/free-vector/female-reproductive-system-with-flowers_9852052.htm#fromView=search&page=1&position=21&uuid=787bab1e-27cd-4eca-9298-746ee8392b6d">Image by freepik</a>
 <a href="https://www.freepik.com/free-photo/low-angle-hands-holding-heart-shape-with-sky_9638207.htm#fromView=search&page=3&position=49&uuid=10865d73-7ec7-4521-90d9-dc7714fc4784">Image by freepik</a>
+<a href="https://www.freepik.com/free-photo/close-up-sand-surface_991301.htm#fromView=search&page=4&position=7&uuid=2b7bd0ff-72e9-434e-912f-17bcc8dd71dd">Image by awesomecontent on Freepik</a>
