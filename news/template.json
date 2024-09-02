@@ -2,33 +2,6 @@
     "news": [
         {
             "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/termin.jpg",
-            "alt": "Neue Sprechzeiten ab August",
-            "title": "Vorsorge Untersuchungen",
-            "short_description": "Gesundheitliche Probleme frühzeitig erkennen und behandeln",
-            "description": "Dazu zählen z.B. Anamnese, Blutdruckmessung, Abtasten sowie Herz- und Lungenuntersuchung. Laboruntersuchungen beinhalten Blutbild, Blutzucker, Cholesterin sowie Leber- und Nierenwerte. Herz-Kreislauf-Untersuchungen umfassen EKG, Belastungs-EKG und Langzeitblutdruckmessung. Untersuchung der Schilddrüse und des Herzens sowie ggf. Röntgen.",
-            "mehr":""
-        },
-        {
-            "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/kassenleistungen.jpg",
-            "alt": "Neuer Mitarbeiter im Team",
-            "title": "Gesetzliche Pflichtleistungen",
-            "short_description": "Informationen für gesetzlich Versicherte",
-            "description": "Die Leistungen, die von jeder Gesetzlichen Krankenkasse angeboten werden, sind trotz aller Kürzungen noch immer recht umfassend: Normale Kontrolluntersuchungen zur frühzeitigen Erkennung und Verhütung von Krankheiten gehören selbstverständlich dazu wie Standardimpfungen. Aber auch die Therapie schwerer, langwieriger Krankheiten sowie die Behandlung von Unfällen und die anschließende Nachsorge...",
-            "mehr":"https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html"
-        },
-        {
-            "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/impfung.jpg",
-            "alt": "Grippeimpfung 2024",
-            "title": "Impfungen",
-            "short_description": "Zum Schutze Ihrer Gesundheit",
-            "description": "Die Ständige Impfkommission (STIKO) gibt regelmäßig Empfehlungen zu notwendigen Impfungen, darunter Standardimpfungen wie gegen Masern, Mumps, Röteln, Tetanus, Diphtherie und Influenza. Besonders wichtig sind auch Impfungen für Risikogruppen wie Kleinkinder, ältere Menschen und Personen mit chronischen Krankheiten. Impfungen sind in vielen Fällen kostenlos und werden von den Krankenkassen übernommen.",
-            "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen"
-        },
-        {
-            "client": "dr_reitz",
             "image": "https://sahramelissa.github.io/webspace/img/heart.jpg",
             "alt": "Bundesregierung Kabinett bringt das 'Gesunde-Herz-Gesetz' auf den Weg",
             "title": "Gesunde-Herz-Gesetz",
@@ -53,6 +26,33 @@
             "short_description": "Joggen, Wandern, Tennisspielen - gerade im Urlaub haben viele Zeit dafür. Doch bei hohen Temperaturen kann das eine Herausforderung für den Körper sein. Darauf sollten Sportler achten. ",
             "description": "Im Sommerurlaub haben viele endlich mehr Zeit für Sport. Aber nicht jeder sollte in der Mittagshitze joggen oder Fußballspielen, sagt Karsten Köhler, Professor für Bewegung, Ernährung und Gesundheit an der TU München.",
             "mehr":"https://www.tagesschau.de/wissen/gesundheit/hitze-sport-100.html"
-        }
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/termin.jpg",
+            "alt": "Neue Sprechzeiten ab August",
+            "title": "Vorsorge Untersuchungen",
+            "short_description": "Gesundheitliche Probleme frühzeitig erkennen und behandeln",
+            "description": "Dazu zählen z.B. Anamnese, Blutdruckmessung, Abtasten sowie Herz- und Lungenuntersuchung. Laboruntersuchungen beinhalten Blutbild, Blutzucker, Cholesterin sowie Leber- und Nierenwerte. Herz-Kreislauf-Untersuchungen umfassen EKG, Belastungs-EKG und Langzeitblutdruckmessung. Untersuchung der Schilddrüse und des Herzens sowie ggf. Röntgen.",
+            "mehr":""
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/kassenleistungen.jpg",
+            "alt": "Neuer Mitarbeiter im Team",
+            "title": "Gesetzliche Pflichtleistungen",
+            "short_description": "Informationen für gesetzlich Versicherte",
+            "description": "Die Leistungen, die von jeder Gesetzlichen Krankenkasse angeboten werden, sind trotz aller Kürzungen noch immer recht umfassend: Normale Kontrolluntersuchungen zur frühzeitigen Erkennung und Verhütung von Krankheiten gehören selbstverständlich dazu wie Standardimpfungen. Aber auch die Therapie schwerer, langwieriger Krankheiten sowie die Behandlung von Unfällen und die anschließende Nachsorge...",
+            "mehr":"https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html"
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/impfung.jpg",
+            "alt": "Grippeimpfung 2024",
+            "title": "Impfungen",
+            "short_description": "Zum Schutze Ihrer Gesundheit",
+            "description": "Die Ständige Impfkommission (STIKO) gibt regelmäßig Empfehlungen zu notwendigen Impfungen, darunter Standardimpfungen wie gegen Masern, Mumps, Röteln, Tetanus, Diphtherie und Influenza. Besonders wichtig sind auch Impfungen für Risikogruppen wie Kleinkinder, ältere Menschen und Personen mit chronischen Krankheiten. Impfungen sind in vielen Fällen kostenlos und werden von den Krankenkassen übernommen.",
+            "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen"
+        }  
     ]
 }
