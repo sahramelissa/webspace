@@ -10,11 +10,19 @@
         },
         {
             "client": "dr_reitz",
-            "image": "https://example.com/another-image.jpg",
-            "alt": "Another Image Alt Text",
-            "title": "Another Card Title",
-            "short_description": "A brief description of the content.",
-            "description": "This is the detailed description for another card, explaining more about the content it represents."
+            "image": "https://sahramelissa.github.io/webspace/img/kassenleistungen.jpg",
+            "alt": "Neuer Mitarbeiter im Team",
+            "title": "Gesetzliche Pflichtleistungen",
+            "short_description": "Informationen für gesetzlich Versicherte",
+            "description": "Die Leistungen, die von jeder Gesetzlichen Krankenkasse angeboten werden, sind trotz aller Kürzungen noch immer recht umfassend: Normale Kontrolluntersuchungen zur frühzeitigen Erkennung und Verhütung von Krankheiten gehören selbstverständlich dazu wie Standardimpfungen. Aber auch die Therapie schwerer, langwieriger Krankheiten sowie die Behandlung von Unfällen und die anschließende Nachsorge... <a href=\"https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html\" target=\"_blank\">mehr</a>"
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/impfung.jpg",
+            "alt": "Grippeimpfung 2024",
+            "title": "Impfungen",
+            "short_description": "Zum Schutze Ihrer Gesundheit",
+            "description": "Die Ständige Impfkommission (STIKO) gibt regelmäßig Empfehlungen zu notwendigen Impfungen, darunter Standardimpfungen wie gegen Masern, Mumps, Röteln, Tetanus, Diphtherie und Influenza. Besonders wichtig sind auch Impfungen für Risikogruppen wie Kleinkinder, ältere Menschen und Personen mit chronischen Krankheiten. Impfungen sind in vielen Fällen kostenlos und werden von den Krankenkassen übernommen. <a href=\"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen\" target=\"_blank\">mehr</a>"
         }
     ]
 }
