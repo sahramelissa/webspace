@@ -1,0 +1,20 @@
+{
+    "news": [
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/termin.jpg",
+            "alt": "Neue Sprechzeiten ab August",
+            "title": "Vorsorge Untersuchungen",
+            "short_description": "Gesundheitliche Probleme frühzeitig erkennen und behandeln",
+            "description": "Dazu zählen z.B. Anamnese, Blutdruckmessung, Abtasten sowie Herz- und Lungenuntersuchung. Laboruntersuchungen beinhalten Blutbild, Blutzucker, Cholesterin sowie Leber- und Nierenwerte. Herz-Kreislauf-Untersuchungen umfassen EKG, Belastungs-EKG und Langzeitblutdruckmessung. Untersuchung der Schilddrüse und des Herzens sowie ggf. Röntgen."
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://example.com/another-image.jpg",
+            "alt": "Another Image Alt Text",
+            "title": "Another Card Title",
+            "short_description": "A brief description of the content.",
+            "description": "This is the detailed description for another card, explaining more about the content it represents."
+        }
+    ]
+}
