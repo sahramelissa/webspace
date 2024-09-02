@@ -26,6 +26,24 @@
             "short_description": "Zum Schutze Ihrer Gesundheit",
             "description": "Die Ständige Impfkommission (STIKO) gibt regelmäßig Empfehlungen zu notwendigen Impfungen, darunter Standardimpfungen wie gegen Masern, Mumps, Röteln, Tetanus, Diphtherie und Influenza. Besonders wichtig sind auch Impfungen für Risikogruppen wie Kleinkinder, ältere Menschen und Personen mit chronischen Krankheiten. Impfungen sind in vielen Fällen kostenlos und werden von den Krankenkassen übernommen.",
             "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen"
-        }
+        },
+        {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/example4.jpg",
+            "alt": "Example Alt Text 4",
+            "title": "Example Title 4",
+            "short_description": "Example short description 4",
+            "description": "Example detailed description 4.",
+            "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen"
+          },
+          {
+            "client": "dr_reitz",
+            "image": "https://sahramelissa.github.io/webspace/img/example5.jpg",
+            "alt": "Example Alt Text 5",
+            "title": "Example Title 5",
+            "short_description": "Example short description 5",
+            "description": "Example detailed description 5.",
+            "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen"
+          }
     ]
 }
