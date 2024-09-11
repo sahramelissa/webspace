@@ -4,7 +4,7 @@
             "client": "dr_reitz",
             "image": "https://sahramelissa.github.io/webspace/img/heart.jpg",
             "alt": "Bundesregierung Kabinett bringt das 'Gesunde-Herz-Gesetz' auf den Weg",
-            "title": "Herz Kreislauf Erkrankungen  ",
+            "title": "Herz Kreislauf Erkrankungen",
             "short_description": "Bundesregierung Kabinett bringt das 'Gesunde-Herz-Gesetz' auf den Weg",
             "description": "Die Bundesregierung hat einen Gesetzentwurf von Gesundheitsminister Lauterbach gebilligt. Das 'Gesundes-Herz-Gesetz' soll laut dem Gesundheitsminister Lauterbach 'zahlreiche Menschenleben retten'. Was bringt die Vorsorge-Offensive",
             "mehr":"https://www.tagesschau.de/multimedia/video/schnell_informiert/video-1373634.html"
@@ -20,26 +20,26 @@
         },
         {
             "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/thermometer.jpg",
-            "alt": "Ab wann Sport bei Hitze gefährlich wird",
-            "title": "Ab wann Sport bei Hitze gefährlich wird",
-            "short_description": "Joggen, Wandern, Tennisspielen - gerade im Urlaub haben viele Zeit dafür. Doch bei hohen Temperaturen kann das eine Herausforderung für den Körper sein. Darauf sollten Sportler achten. ",
-            "description": "Im Sommerurlaub haben viele endlich mehr Zeit für Sport. Aber nicht jeder sollte in der Mittagshitze joggen oder Fußballspielen, sagt Karsten Köhler, Professor für Bewegung, Ernährung und Gesundheit an der TU München.",
-            "mehr":"https://www.tagesschau.de/wissen/gesundheit/hitze-sport-100.html"
+            "image": "https://sahramelissa.github.io/webspace/img/impfpass.jpg",
+            "alt": "Verlorener Impfpass - Was jetzt?",
+            "title": "Verlorener Impfpass - Was jetzt?",
+            "short_description": "Wer hilft beim Verlust des Impfpasses?",
+            "description": "Während alles digitaler wird, bleibt der Impfpass ein Relikt aus Papier. Dies hat Vor- und Nachteile. Verliert man seinen Impfpass, ist es eindeutig ein Nachteil. Denn alle Informationen rund um die bereits durchgeführten Impfungen sind nur dort komplett festgehalten. Jeder Arzt bzw. jede Ärztin hat nur eine Übersicht über die selbst durchgeführten Impfungen.",
+            "mehr":"https://www.wirfuersimpfen.de/verlorener-impfpass-was-jetzt"
         },
         {
             "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/termin.jpg",
-            "alt": "Neue Sprechzeiten ab August",
-            "title": "Vorsorge Untersuchungen",
-            "short_description": "Gesundheitliche Probleme frühzeitig erkennen und behandeln",
-            "description": "Dazu zählen z.B. Anamnese, Blutdruckmessung, Abtasten sowie Herz- und Lungenuntersuchung. Laboruntersuchungen beinhalten Blutbild, Blutzucker, Cholesterin sowie Leber- und Nierenwerte. Herz-Kreislauf-Untersuchungen umfassen EKG, Belastungs-EKG und Langzeitblutdruckmessung. Untersuchung der Schilddrüse und des Herzens sowie ggf. Röntgen.",
-            "mehr":""
+            "image": "https://sahramelissa.github.io/webspace/img/impfung.jpg",
+            "alt": "Erstattung von Impfkosten durch die Krankenkasse",
+            "title": "Erstattung von Impfkosten durch die Krankenkasse",
+            "short_description": "Impfungen sind nicht immer Leistungen der Krankenkasse, und auch nicht jede Krankenkasse übernimmt die Kosten für die gleichen Impfungen.",
+            "description": "Im Rahmen des Infektionsschutzgesetzes (IfSG) wird gesetzlich geregelt, für welche Impfkosten die Krankenkasse aufkommen muss: In Deutschland sind dies die Standardimpfungen, die von der Ständigen Impfkommission, kurz STIKO, empfohlen werden. Die Kostenübernahme dieser Standardimpfungen ist sozusagen eine Verpflichtung für die Krankenkassen. Auf welche Impfungen das zutrifft, ist im Impfkalender nachzulesen.",
+            "mehr":"https://www.wirfuersimpfen.de/erstattung-von-impfkosten-durch-die-krankenkasse"
         },
         {
             "client": "dr_reitz",
             "image": "https://sahramelissa.github.io/webspace/img/kassenleistungen.jpg",
-            "alt": "Neuer Mitarbeiter im Team",
+            "alt": "Gesetzliche Pflichtleistungen",
             "title": "Gesetzliche Pflichtleistungen",
             "short_description": "Informationen für gesetzlich Versicherte",
             "description": "Die Leistungen, die von jeder Gesetzlichen Krankenkasse angeboten werden, sind trotz aller Kürzungen noch immer recht umfassend: Normale Kontrolluntersuchungen zur frühzeitigen Erkennung und Verhütung von Krankheiten gehören selbstverständlich dazu wie Standardimpfungen. Aber auch die Therapie schwerer, langwieriger Krankheiten sowie die Behandlung von Unfällen und die anschließende Nachsorge...",
@@ -47,9 +47,9 @@
         },
         {
             "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/impfung.jpg",
-            "alt": "Grippeimpfung 2024",
-            "title": "Impfungen",
+            "image": "https://sahramelissa.github.io/webspace/img/viren.jpg",
+            "alt": "Impfungen",
+            "title": "Allgemeine Infos zu den Impfungen",
             "short_description": "Zum Schutze Ihrer Gesundheit",
             "description": "Die Ständige Impfkommission (STIKO) gibt regelmäßig Empfehlungen zu notwendigen Impfungen, darunter Standardimpfungen wie gegen Masern, Mumps, Röteln, Tetanus, Diphtherie und Influenza. Besonders wichtig sind auch Impfungen für Risikogruppen wie Kleinkinder, ältere Menschen und Personen mit chronischen Krankheiten. Impfungen sind in vielen Fällen kostenlos und werden von den Krankenkassen übernommen.",
             "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen"
