@@ -11,7 +11,7 @@
         },
         {
             "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/untersuchung.jpg",
+            "image": "https://sahramelissa.github.io/webspace/img/heart.jpg",
             "alt": "Gesundheits-Check-up",
             "title": "Gesundheits-Check-up",
             "short_description": "Anspruch auf regelmäßige Gesundheitsuntersuchung",
@@ -20,7 +20,7 @@
         },
         {
             "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/impfpass.jpg",
+            "image": "https://sahramelissa.github.io/webspace/img/passport.jpg",
             "alt": "Verlorener Impfpass - Was jetzt?",
             "title": "Verlorener Impfpass - Was jetzt?",
             "short_description": "Wer hilft beim Verlust des Impfpasses?",
@@ -31,7 +31,7 @@
             "client": "dr_reitz",
             "image": "https://sahramelissa.github.io/webspace/img/kassenleistungen.jpg",
             "alt": " Gesetzliche Pflichtleistungen im Überblick",
-            "title": " Leistungen der Krankenkassen im Überblick",
+            "title": "Allgemeine Leistungen der Krankenkassen im Überblick",
             "short_description": "Informationen für gesetzlich Versicherte",
             "description": "Die Leistungen, die von jeder Gesetzlichen Krankenkasse angeboten werden, sind trotz aller Kürzungen noch immer recht umfassend: Normale Kontrolluntersuchungen zur frühzeitigen Erkennung und Verhütung von Krankheiten gehören selbstverständlich dazu wie Standardimpfungen. Aber auch die Therapie schwerer, langwieriger Krankheiten sowie die Behandlung von Unfällen und die anschließende Nachsorge...",
             "mehr":"https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html"
@@ -48,7 +48,7 @@
         {
             "client": "dr_reitz",
             "image": "https://sahramelissa.github.io/webspace/img/impfung.jpg",
-            "alt": "Erstattung von Impfkosten durch die Krankenkasse",
+            "alt": "Erstattung von Impfkosten",
             "title": "Erstattung von Impfkosten durch die Krankenkasse",
             "short_description": "Impfungen sind nicht immer Leistungen der Krankenkasse, und auch nicht jede Krankenkasse übernimmt die Kosten für die gleichen Impfungen.",
             "description": "Im Rahmen des Infektionsschutzgesetzes (IfSG) wird gesetzlich geregelt, für welche Impfkosten die Krankenkasse aufkommen muss: In Deutschland sind dies die Standardimpfungen, die von der Ständigen Impfkommission, kurz STIKO, empfohlen werden. Die Kostenübernahme dieser Standardimpfungen ist sozusagen eine Verpflichtung für die Krankenkassen. Auf welche Impfungen das zutrifft, ist im Impfkalender nachzulesen.",
