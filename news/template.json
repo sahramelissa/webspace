@@ -2,21 +2,21 @@
     "news": [
         {
             "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/heart.jpg",
-            "alt": "Bundesregierung Kabinett bringt das 'Gesunde-Herz-Gesetz' auf den Weg",
-            "title": "Herz Kreislauf Erkrankungen",
-            "short_description": "Bundesregierung Kabinett bringt das 'Gesunde-Herz-Gesetz' auf den Weg",
-            "description": "Die Bundesregierung hat einen Gesetzentwurf von Gesundheitsminister Lauterbach gebilligt. Das 'Gesundes-Herz-Gesetz' soll laut dem Gesundheitsminister Lauterbach 'zahlreiche Menschenleben retten'. Was bringt die Vorsorge-Offensive",
-            "mehr":"https://www.tagesschau.de/multimedia/video/schnell_informiert/video-1373634.html"
+            "image": "https://sahramelissa.github.io/webspace/img/medical.jpg",
+            "alt": "Online-Ratgeber Krankenversicherung",
+            "title": "Online-Ratgeber Krankenversicherung",
+            "short_description": "Krankenversicherung, Beiträge, Tarife.",
+            "description": "Eine Themenübersicht mit Informationen zur gesetzlichen und privaten Krankenversicherung, zu Beiträgen und Tarifen, Wahltarifen und Bonusprogrammen, zur elektronische Gesundheitskarte, zum Versicherungsschutz im Ausland, zur Versicherungspflicht während des Bundesfreiwilligendienstes (BFD) oder Jugendfreiwilligendienstes (JFD), zum Prinzip der Selbstverwaltung in der Gesundheitsversorgung sowie zu Wahl und Wechsel der Krankenkasse.",
+            "mehr":"https://www.bundesgesundheitsministerium.de/themen/krankenversicherung/online-ratgeber-krankenversicherung.html"
         },
         {
             "client": "dr_reitz",
-            "image": "https://sahramelissa.github.io/webspace/img/flower.jpg",
-            "alt": "Rückgang bei Impfungen gegen Gebärmutterhalskrebs",
-            "title": "Rückgang bei Impfungen gegen Gebärmutterhalskrebs",
-            "short_description": "Entgegen aller Empfehlungen werden immer weniger Kinder gegen das HPV-Virus geimpft. Das zeigt eine Krankenkassen-Erhebung. Dabei können die Viren bösartige Tumore auslösen - wie zum Beispiel am Gebärmutterhals.",
-            "description": "Das humane Papilloma-Virus (kurz HPV) kann bei Männern und Frauen bösartige Tumore auslösen - etwa im Mund-Rachen-Raum, an den Geschlechtsorganen oder auch Gebärmutterhalskrebs. Deshalb empfiehlt die Ständige Impfkommission schon seit Jahren, Mädchen und Jungen gegen HPV zu impfen.",
-            "mehr":"https://www.tagesschau.de/inland/gesellschaft/rueckgang-hpv-impfung-100.html"
+            "image": "https://sahramelissa.github.io/webspace/img/untersuchung.jpg",
+            "alt": "Gesundheits-Check-up",
+            "title": "Gesundheits-Check-up",
+            "short_description": "Anspruch auf regelmäßige Gesundheitsuntersuchung",
+            "description": "Herz-Kreislauf-Erkrankungen, Typ 2-Diabetes oder Nierenerkrankungen – all diese Erkrankungen können besser behandelt werden, wenn man sie frühzeitig erkennt. Zudem können viele Erkrankungen oft auch verhindert werden, wenn vor ihrem Auftreten die dafür relevanten Risikofaktoren erfasst und behandelt werden. Gesetzlich Versicherte haben deshalb Anspruch auf eine regelmäßige Gesundheitsuntersuchung...",
+            "mehr":"https://www.bundesgesundheitsministerium.de/checkup"
         },
         {
             "client": "dr_reitz",
@@ -30,8 +30,8 @@
         {
             "client": "dr_reitz",
             "image": "https://sahramelissa.github.io/webspace/img/kassenleistungen.jpg",
-            "alt": "Gesetzliche Pflichtleistungen",
-            "title": "Gesetzliche Pflichtleistungen",
+            "alt": " Gesetzliche Pflichtleistungen im Überblick",
+            "title": " Leistungen der Krankenkassen im Überblick",
             "short_description": "Informationen für gesetzlich Versicherte",
             "description": "Die Leistungen, die von jeder Gesetzlichen Krankenkasse angeboten werden, sind trotz aller Kürzungen noch immer recht umfassend: Normale Kontrolluntersuchungen zur frühzeitigen Erkennung und Verhütung von Krankheiten gehören selbstverständlich dazu wie Standardimpfungen. Aber auch die Therapie schwerer, langwieriger Krankheiten sowie die Behandlung von Unfällen und die anschließende Nachsorge...",
             "mehr":"https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html"
