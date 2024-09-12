@@ -41,10 +41,10 @@
             "client": "dr_reitz",
             "image": "https://sahramelissa.github.io/webspace/img/impfung.jpg",
             "alt": "Impfungen",
-            "title": "Allgemeine Infos zu den Impfungen",
-            "short_description": "Zum Schutze Ihrer Gesundheit",
-            "description": "Die Ständige Impfkommission (STIKO) gibt regelmäßig Empfehlungen zu notwendigen Impfungen, darunter Standardimpfungen wie gegen Masern, Mumps, Röteln, Tetanus, Diphtherie und Influenza. Besonders wichtig sind auch Impfungen für Risikogruppen wie Kleinkinder, ältere Menschen und Personen mit chronischen Krankheiten. Impfungen sind in vielen Fällen kostenlos und werden von den Krankenkassen übernommen.",
-            "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen"
+            "title": "Schutzimpfungen",
+            "short_description": "Impfungen gehören zu den wichtigsten und wirksamsten Maßnahmen zum Schutz vor Infektionskrankheiten.",
+            "description": "Impfungen gehören zu den wichtigsten und wirksamsten Maßnahmen zum Schutz vor Infektionskrankheiten. In Deutschland entwickelt die Ständige Impfkommission (STIKO) Impfempfehlungen für Kinder, Jugendliche und Erwachsene und berücksichtigt dabei sowohl den Nutzen für geimpfte Personen als auch für die gesamte Bevölkerung. Die unabhängige Kommission ist beim Robert Koch-Institut (RKI) angesiedelt, wo sich auch ihre Geschäftsstelle befindet.",
+            "mehr":"https://www.bundesgesundheitsministerium.de/themen/praevention/impfungen.html"
         },
         {
             "client": "dr_reitz",
