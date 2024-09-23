@@ -1,7 +1,7 @@
 .dmHeaderContainer, .dmFooterContainer, .hamburger-header-container, .layout-drawer-hamburger, .dmBackToTop  {
     display: none;
 }
-.dmRespRowsWrapper,.dmContent{
+.dmRespRowsWrapper,.dmContent,#dmStyle_innerContainer{
     background-color: #e9ecef !important;
 }
 .dmRespColsWrapper{
