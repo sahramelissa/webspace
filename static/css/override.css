@@ -10,3 +10,6 @@
 .btn-custom-color{
     color: white !important;
 }
+.dmRespRow{
+    padding: unset !important;
+}
