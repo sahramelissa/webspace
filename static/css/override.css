@@ -1,4 +1,4 @@
-.dmHeaderContainer, .dmFooterContainer  {
+.dmHeaderContainer, .dmFooterContainer, .hamburger-header-container, .layout-drawer-hamburger, .dmBackToTop  {
     display: none;
 }
 .dmRespRowsWrapper{
