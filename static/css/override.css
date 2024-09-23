@@ -11,5 +11,6 @@
     color: white !important;
 }
 .dmRespRow{
-    padding: unset !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
 }
