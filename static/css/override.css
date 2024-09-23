@@ -7,3 +7,6 @@
 .dmRespColsWrapper{
     max-width: unset !important;
 }
+.btn-custom-color{
+    color: white;
+}
