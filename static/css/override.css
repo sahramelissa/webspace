@@ -4,3 +4,6 @@
 .dmRespRowsWrapper,.dmContent{
     background-color: #e9ecef !important;
 }
+.dmRespColsWrapper{
+    max-width: unset !important;
+}
