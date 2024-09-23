@@ -1,3 +1,6 @@
 .dmHeaderContainer, .dmFooterContainer  {
     display: none;
 }
+.dmRespRowsWrapper{
+    background-color: unset;
+}
