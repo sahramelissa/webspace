@@ -34,8 +34,10 @@
     display: flex;
     flex-direction: column;
 }
-.dmformsubmit input{
+.dmformsubmit{
     background-color: #00a14b;
     border: none;
+}
+.dmformsubmit input{
     color: white !important;
 }
