@@ -34,6 +34,7 @@
 }
 .dmforminput{
     width:100% !important;
+    margin: 20px 0px !important;
 }
 .spacing-container{
     display: flex;
