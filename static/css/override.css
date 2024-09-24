@@ -22,3 +22,10 @@
     border-radius: 5px;
     border: none !important;
 }
+.dmforminput{
+    width:100% !important;
+}
+.spacing-container{
+    display: flex;
+    flex-direction: column;
+}
