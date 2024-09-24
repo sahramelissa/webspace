@@ -46,3 +46,6 @@
 .dmformsubmit input{
     color: white !important;
 }
+.dmStandardMobile .site_content{
+    margin-top: 0px !important;
+}
