@@ -41,11 +41,11 @@
     flex-direction: column;
     width: 100% !important;
 }
-#1331807741{
-    display: flex;
-    flex-direction: column; 
-    justify-content: flex-end; /* Aligns items vertically to the bottom */
-    align-items: flex-end; /* Aligns items horizontally to the right */
+.dmform-wrapper form{
+    display: flex !important;
+    flex-direction: column !important; 
+    justify-content: flex-end !important; /* Aligns items vertically to the bottom */
+    align-items: flex-end !important; /* Aligns items horizontally to the right */
 
 }
 .dmformsubmit{
