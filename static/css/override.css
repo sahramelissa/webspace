@@ -42,6 +42,7 @@
 .dmformsubmit{
     background-color: #00a14b;
     border: none;
+    min-width: 200px !important;
 }
 .dmformsubmit input{
     color: white !important;
