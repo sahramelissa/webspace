@@ -34,7 +34,7 @@
 }
 .dmforminput{
     width:100% !important;
-    margin: 20px 0px !important;
+   
 }
 .spacing-container{
     display: flex;
@@ -44,7 +44,7 @@
     background-color: #00a14b;
     border: none;
     min-width: 175px !important;
-    margin: 15px !important; 
+    margin: 15px 0px !important; 
     display: flex !important;
     justify-content: flex-end !important;
     -webkit-float: right;
