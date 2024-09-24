@@ -42,8 +42,9 @@
 .dmformsubmit{
     background-color: #00a14b;
     border: none;
-    min-width: 200px !important;
+    min-width: 175px !important;
     margin: 15px !important; 
+    margin-left: 40px !important;
 }
 .dmformsubmit input{
     color: white !important;
