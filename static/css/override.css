@@ -46,6 +46,7 @@
     margin: 15px !important; 
     display: flex !important;
     justify-content: flex-end !important;
+    width: auto !important;
 }
 .dmformsubmit input{
     color: white !important;
