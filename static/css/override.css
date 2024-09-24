@@ -9,6 +9,10 @@
 }
 .btn-custom-color{
     color: white !important;
+    background-color:rgba(0,151,76,0.875) !important
+}
+.btn-custom-color:hover{
+    background-color:rgba(0,92,46,0.875) !important
 }
 .dmRespRow{
     padding-left: 0px !important;
