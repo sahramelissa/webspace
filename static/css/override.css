@@ -64,3 +64,6 @@
 .dmStandardMobile .site_content{
     margin-top: 0px !important;
 }
+.dmforminput label {
+    width: 100px !important;
+}
