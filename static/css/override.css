@@ -34,25 +34,16 @@
 }
 .dmforminput{
     width:100% !important;
-   
 }
 .spacing-container{
     display: flex;
     flex-direction: column;
-    width: 100% !important;
-}
-.dmform-wrapper form{
-    display: flex !important;
-    flex-direction: column !important; 
-    justify-content: flex-end !important; /* Aligns items vertically to the bottom */
-    align-items: flex-end !important; /* Aligns items horizontally to the right */
-
 }
 .dmformsubmit{
     background-color: #00a14b;
     border: none;
     min-width: 175px !important;
-    margin: 15px 0px !important; 
+    margin: 15px !important; 
     display: flex !important;
     justify-content: flex-end !important;
     -webkit-float: right;
@@ -63,7 +54,4 @@
 }
 .dmStandardMobile .site_content{
     margin-top: 0px !important;
-}
-.dmforminput label {
-    width: 100px !important;
 }
